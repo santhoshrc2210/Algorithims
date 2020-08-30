@@ -1,5 +1,5 @@
 '''
-Sorting algorithim that caculates wether the number of
+Sorting algorithim that calculates wether the number of
 permutations to sort the list is even or odd
 '''
 def is_even(p):
