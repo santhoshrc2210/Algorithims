@@ -1,6 +1,6 @@
 '''
 Sorting algorithim that calculates wether the number of
-permutations to sort the list is even or odd
+permutations to sort a list of a range of numbers (0.....n) is even or odd
 '''
 def is_even(p):
     idx=0
