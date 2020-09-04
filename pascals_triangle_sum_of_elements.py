@@ -1,4 +1,4 @@
-'''Calculating the sum of the elements between 40-60 100th row 
+'''Calculating the sum of the elements between 40-60 in 100th row 
    pascals triangle'''
 
 import math
