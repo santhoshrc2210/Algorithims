@@ -1,5 +1,5 @@
 '''Calculating the sum of the elements between 40-60 in 100th row 
-   pascals triangle'''
+   galtons board'''
 
 import math
 sum=0.0
